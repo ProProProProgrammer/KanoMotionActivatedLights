@@ -1,5 +1,5 @@
 import serial, json
-import pyautogui, time
+import time
 import os
 
 s = serial.Serial('/dev/cu.usbmodem14101')
